@@ -1,0 +1,109 @@
+2019-08-13 01:16:56 DEBUG PhoneNumberEncodingTask:34 - Successfully loaded the configuration properties from : application.properties
+2019-08-13 01:16:56 DEBUG PhoneNumberEncodingTask:42 - Starting encoding of phone numbers
+2019-08-13 01:16:56 DEBUG DictionaryFileService:29 - Fetching Dictionary Items from : dictionaries/dictionary.txt
+2019-08-13 01:16:56 DEBUG DictionaryFileService:45 - Successfully loaded dictionaries to memory
+2019-08-13 01:16:56 DEBUG ReadAndEncodePhoneNumber:37 - Fetching Input phone number Items from : inputPhoneNumbers/input.txt
+2019-08-13 01:16:58 INFO  ReadAndEncodePhoneNumber:50 - 38-: so
+2019-08-13 01:16:59 INFO  ReadAndEncodePhoneNumber:50 - -885/63538: Po Midas 8
+2019-08-13 01:16:59 INFO  ReadAndEncodePhoneNumber:50 - -885/63538: O"l Midas 8
+2019-08-13 01:16:59 INFO  ReadAndEncodePhoneNumber:50 - 468: Tip
+2019-08-13 01:16:59 INFO  ReadAndEncodePhoneNumber:50 - -0338: es so
+2019-08-13 01:17:00 INFO  ReadAndEncodePhoneNumber:50 - 7-5: um
+2019-08-13 01:17:02 INFO  ReadAndEncodePhoneNumber:50 - /7-357653152/0677-: USA Bias ja Weib 7
+2019-08-13 01:17:02 INFO  ReadAndEncodePhoneNumber:50 - /7-357653152/0677-: USA Bias ja Reck 7
+2019-08-13 01:17:02 INFO  ReadAndEncodePhoneNumber:50 - 3/-6482482: dito 2 Tor
+2019-08-13 01:17:03 INFO  ReadAndEncodePhoneNumber:50 - /8-: 8
+2019-08-13 01:17:05 INFO  ReadAndEncodePhoneNumber:50 - 3-/0--69-4: sei 9 4
+2019-08-13 01:17:05 INFO  ReadAndEncodePhoneNumber:50 - 7/: 7
+2019-08-13 01:17:05 INFO  ReadAndEncodePhoneNumber:50 - --5-: 5
+2019-08-13 01:17:05 INFO  ReadAndEncodePhoneNumber:50 - 877-: Pub
+2019-08-13 01:17:05 INFO  ReadAndEncodePhoneNumber:50 - 877-: ok 7
+2019-08-13 01:17:05 INFO  ReadAndEncodePhoneNumber:50 - 877-: ob 7
+2019-08-13 01:17:07 INFO  ReadAndEncodePhoneNumber:50 - 3586-75: da Pik 5
+2019-08-13 01:17:07 INFO  ReadAndEncodePhoneNumber:50 - 3586-75: Dali um
+2019-08-13 01:17:09 INFO  ReadAndEncodePhoneNumber:50 - 87/03: ok es
+2019-08-13 01:17:09 INFO  ReadAndEncodePhoneNumber:50 - 87/03: ob es
+2019-08-13 01:17:09 INFO  ReadAndEncodePhoneNumber:50 - 2: 2
+2019-08-13 01:17:10 INFO  ReadAndEncodePhoneNumber:50 - 10: je
+2019-08-13 01:17:12 INFO  ReadAndEncodePhoneNumber:50 - 584/2: alt 2
+2019-08-13 01:17:12 INFO  ReadAndEncodePhoneNumber:50 - 584/2: Alf 2
+2019-08-13 01:17:12 INFO  ReadAndEncodePhoneNumber:50 - 45-69372376//8-926-5: Fach Dur Ski Ohr im
+2019-08-13 01:17:12 INFO  ReadAndEncodePhoneNumber:50 - 45-69372376//8-926-5: Fach Dur Ski oh Wim
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem Zar Uhu Mut so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem Zar Uhu auf so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem gar Uhu Mut so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem Zar Uhu Abt so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem gar Uhu auf so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem gar Uhu Au Typ Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem Zar Uhu Au Typ Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem gar Uhu Abt so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem gar Uhu Akt so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /205952797574385/54/58-8691: wem Zar Uhu Akt so Amt Alp ihn
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - 1515-7--03: Jan Au es
+2019-08-13 01:17:14 INFO  ReadAndEncodePhoneNumber:50 - /0: 0
+2019-08-13 01:17:16 INFO  ReadAndEncodePhoneNumber:50 - 20///6458025/: weit Alex 5
+2019-08-13 01:17:16 INFO  ReadAndEncodePhoneNumber:50 - 20///6458025/: reif Alex 5
+2019-08-13 01:17:17 INFO  ReadAndEncodePhoneNumber:50 - -/1-72532602030/1-96--17657626: Jura Sri er Eden Zink im Kir 6
+2019-08-13 01:17:17 INFO  ReadAndEncodePhoneNumber:50 - -/1-72532602030/1-96--17657626: Juras wie reden Zink im Kir 6
+2019-08-13 01:17:17 INFO  ReadAndEncodePhoneNumber:50 - -/1-72532602030/1-96--17657626: Jux As wie Wesen Zink im Kir 6
+2019-08-13 01:17:17 INFO  ReadAndEncodePhoneNumber:50 - -/1-72532602030/1-96--17657626: nur As wie Wesen Zink im Kir 6
+2019-08-13 01:17:17 INFO  ReadAndEncodePhoneNumber:50 - -/1-72532602030/1-96--17657626: Jux As wie reden Zink im Kir 6
+2019-08-13 01:17:17 INFO  ReadAndEncodePhoneNumber:50 - -/1-72532602030/1-96--17657626: nur As wie reden Zink im Kir 6
+2019-08-13 01:17:17 INFO  ReadAndEncodePhoneNumber:50 - -/1-72532602030/1-96--17657626: Juras wie Wesen Zink im Kir 6
+2019-08-13 01:17:18 INFO  ReadAndEncodePhoneNumber:50 - 1729-876: Jux hob 6
+2019-08-13 01:17:18 INFO  ReadAndEncodePhoneNumber:50 - 1729-876: nur hob 6
+2019-08-13 01:17:19 INFO  ReadAndEncodePhoneNumber:50 - 2/52874240968251: rar Put 2 Fez voran
+2019-08-13 01:17:19 INFO  ReadAndEncodePhoneNumber:50 - 2/52874240968251: wa"r Put 2 Fez voran
+2019-08-13 01:17:20 INFO  ReadAndEncodePhoneNumber:50 - -9097-/7297: Zeh Burg 7
+2019-08-13 01:17:20 INFO  ReadAndEncodePhoneNumber:50 - -9097-/7297: Zeh kurz 7
+2019-08-13 01:17:20 INFO  ReadAndEncodePhoneNumber:50 - -9097-/7297: Zeh Kur zu
+2019-08-13 01:17:21 INFO  ReadAndEncodePhoneNumber:50 - /5: 5
+2019-08-13 01:17:22 INFO  ReadAndEncodePhoneNumber:50 - -89947-2: oh 9 Tu"r
+2019-08-13 01:17:22 INFO  ReadAndEncodePhoneNumber:50 - -89947-2: oh 9 fu"r
+2019-08-13 01:17:23 INFO  ReadAndEncodePhoneNumber:50 - 3593/: sah 3
+2019-08-13 01:17:23 INFO  ReadAndEncodePhoneNumber:50 - /4: 4
+2019-08-13 01:17:23 INFO  ReadAndEncodePhoneNumber:50 - 1959175446: 1 Hahn Kaff 6
+2019-08-13 01:17:23 INFO  ReadAndEncodePhoneNumber:50 - 1959175446: 1 Zahn Kaff 6
+2019-08-13 01:17:23 INFO  ReadAndEncodePhoneNumber:50 - 18//91: John
+2019-08-13 01:17:24 INFO  ReadAndEncodePhoneNumber:50 - 857: lau
+2019-08-13 01:17:24 INFO  ReadAndEncodePhoneNumber:50 - 58200: Mo"we 0
+2019-08-13 01:17:24 INFO  ReadAndEncodePhoneNumber:50 - 6-22487/: irrt ok
+2019-08-13 01:17:24 INFO  ReadAndEncodePhoneNumber:50 - 6-22487/: irrt ob
+2019-08-13 01:17:25 INFO  ReadAndEncodePhoneNumber:50 - -0: 0
+2019-08-13 01:17:25 INFO  ReadAndEncodePhoneNumber:50 - 105852: je Alm 2
+2019-08-13 01:17:26 INFO  ReadAndEncodePhoneNumber:50 - 2: 2
+2019-08-13 01:17:27 INFO  ReadAndEncodePhoneNumber:50 - -11/0: 1 je
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um ein Rad neu As
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um Einrad je Bad
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um ein Rad je um 3
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um ein was neu As
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um ein was je Bad
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um Einrad neu As
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um ein was je um 3
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um Einrad je um 3
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - 750612/531/075-3: um ein Rad je Bad
+2019-08-13 01:17:31 INFO  ReadAndEncodePhoneNumber:50 - -53-/029563539-4: As Erz Midas 9 4
+2019-08-13 01:17:33 INFO  ReadAndEncodePhoneNumber:50 - -0--: 0
+2019-08-13 01:17:33 INFO  ReadAndEncodePhoneNumber:50 - 15084: ja elf
+2019-08-13 01:17:35 INFO  ReadAndEncodePhoneNumber:50 - 3009: See 9
+2019-08-13 01:17:35 INFO  ReadAndEncodePhoneNumber:50 - 1: 1
+2019-08-13 01:17:36 INFO  ReadAndEncodePhoneNumber:50 - 1588--/0: ja O"l 0
+2019-08-13 01:17:36 INFO  ReadAndEncodePhoneNumber:50 - 1588--/0: ja Po 0
+2019-08-13 01:17:37 INFO  ReadAndEncodePhoneNumber:50 - /9: 9
+2019-08-13 01:17:38 INFO  ReadAndEncodePhoneNumber:50 - 6-: 6
+2019-08-13 01:17:39 INFO  ReadAndEncodePhoneNumber:50 - -9536-2/02: Gas Ire 2
+2019-08-13 01:17:39 INFO  ReadAndEncodePhoneNumber:50 - 3/-03: des
+2019-08-13 01:17:39 INFO  ReadAndEncodePhoneNumber:50 - 53104845: As je tot 5
+2019-08-13 01:17:39 INFO  ReadAndEncodePhoneNumber:50 - 9092172: Zeh 2 nur
+2019-08-13 01:17:39 INFO  ReadAndEncodePhoneNumber:50 - 9092172: Zeh 2 Jux
+2019-08-13 01:17:40 INFO  ReadAndEncodePhoneNumber:50 - 210268244/: 2 Nerv Ort 4
+2019-08-13 01:17:40 INFO  ReadAndEncodePhoneNumber:50 - 94: 9 4
+2019-08-13 01:17:40 INFO  ReadAndEncodePhoneNumber:50 - 18-455-89/35: Not Malz da
+2019-08-13 01:17:41 INFO  ReadAndEncodePhoneNumber:50 - 87: ok
+2019-08-13 01:17:41 INFO  ReadAndEncodePhoneNumber:50 - 87: ob
+2019-08-13 01:17:42 INFO  ReadAndEncodePhoneNumber:50 - 65//: im
+2019-08-13 01:17:45 INFO  ReadAndEncodePhoneNumber:50 - 6-81/: Ion
+2019-08-13 01:17:45 INFO  ReadAndEncodePhoneNumber:50 - 6-81/: von
+2019-08-13 01:17:46 INFO  ReadAndEncodePhoneNumber:50 - 2//58: Wal
+2019-08-13 01:17:47 INFO  ReadAndEncodePhoneNumber:50 - 8576: lau 6
+2019-08-13 01:17:48 DEBUG PhoneNumberEncodingTask:45 - Successfully completed encoding of phone numbers
